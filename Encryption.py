@@ -45,5 +45,5 @@ if __name__== "__main__":
 		y = rot13(x)
 		output_list.append(y)
 
-	rotted = "".join(output_list)
-	print rotted
+	rot = "".join(output_list)
+	print rot
